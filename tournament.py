@@ -2,7 +2,7 @@
 #
 # tournament.py -- implementation of a Swiss-system tournament
 #
-
+# Author Tom Carroll
 import psycopg2
 
 
